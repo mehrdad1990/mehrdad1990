@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **I didn't love my job in the beginning**
 
+- 🤝  I'm open to collaborating on mobile application projects
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/mehrdad_1990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mehrdad_1990" height="30" width="40" /></a>
